@@ -1,0 +1,4 @@
+pefile
+python-daemon
+python-magic
+ssdeep
